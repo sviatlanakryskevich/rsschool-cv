@@ -1,5 +1,5 @@
 # **Sviatlana Kryskevich**
-
+![My photo](/contacts.jpg)
 ## **My contact info:**
 - **Location:** Gdańsk, Poland
 - **Phone:** +48 787-916-247
