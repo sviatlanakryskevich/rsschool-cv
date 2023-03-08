@@ -46,3 +46,4 @@ export default checkNumInputs;
 ## **Languages**
 - **Russian** - native speaker
 - **English** - A2
+- **Polish** - A1 (A2 in process)
